@@ -31,7 +31,7 @@ Built a 2-page interactive Power BI dashboard analyzing 3 years of AMFI data fro
 
 **Tools:** Power BI, DAX, Data Modeling, Data Visualization
 
-**View Dashboard:** [Divya_MutualFund_Dashboard_PowerBI.pdf](./MutualFund_Dashboard.pdf)
+**View Dashboard:** [Divya_MutualFund_Dashboard_powerBI.pdf](./MutualFund_Dashboard.pdf)
 
 ## How to Run
 1. Run `scripts/01_ingest_raw_to_db.py` to load data into MySQL
