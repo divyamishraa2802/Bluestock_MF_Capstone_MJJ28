@@ -6,5 +6,5 @@ Analysis of Indian Mutual Fund industry from 2021-2025 using Python ETL pipeline
 ## How to Run This Project
 
 ### 1. Install Required Libraries
-```bash
+
 pip install pandas requests beautifulsoup4 
