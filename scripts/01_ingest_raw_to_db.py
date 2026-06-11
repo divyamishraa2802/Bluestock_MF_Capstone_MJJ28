@@ -1,4 +1,10 @@
 
+"""
+Step 1: Extract raw AMFI data from website and save to CSV
+Bluestock Mutual Fund Capstone Project
+Author: Divya
+"""
+
 import pandas as pd
 import sqlite3
 import os
